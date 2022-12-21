@@ -5,7 +5,7 @@ Hi 👋 My name is Yeremenko Andriy
 * ✉️  You can contact me at [andrii.yeremenko@gmail.com](mailto:andrii.yeremenko@gmail.com)
 * 🧠  I'm learning Javascript, C#, C
 
-### Skills
+### Learning Skills
 
 
 <p align="left">
