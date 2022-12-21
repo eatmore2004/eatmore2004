@@ -3,7 +3,7 @@ Hi 👋 My name is Yeremenko Andriy
 
 * 🌍  I'm based in Kharkiv
 * ✉️  You can contact me at [andrii.yeremenko@gmail.com](mailto:andrii.yeremenko@gmail.com)
-* 🧠  I'm learning Javascript, C#
+* 🧠  I'm learning Javascript, C#, C
 
 ### Skills
 
