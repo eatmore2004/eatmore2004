@@ -20,7 +20,3 @@
 <p align="left"> <a href="https://www.codewars.com/users/AndriiYeremenko" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/AndriiYeremenko/badges/small"/></a></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eatmore2004&" alt="eatmore2004" /></p>
-
-
