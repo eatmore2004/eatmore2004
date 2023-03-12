@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eatmore2004&label=Profile%20views&color=0e75b6&style=flat" alt="eatmore2004" /> </p>
 
-- 🌱 I'm currently studying in a university **<a href="https://nure.ua/en/" target="blank">Kharkiv National University of Radio Electronics</a> and <a href="https://www.fei.stuba.sk/" target="blank">Slovenská technická univerzita v Bratislave</a>**
+- 🌱 I'm currently studying in a **<a href="https://nure.ua/en/" target="blank">Kharkiv National University of Radio Electronics</a> and <a href="https://www.fei.stuba.sk/" target="blank">Slovenská technická univerzita v Bratislave</a>**
 
 - 📫 How to reach me **andrii.yeremenko@gmail.com**
 
